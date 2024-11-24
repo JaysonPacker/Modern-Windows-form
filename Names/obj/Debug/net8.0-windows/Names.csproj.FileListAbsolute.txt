@@ -1,0 +1,17 @@
+C:\Github_Repos\Modern-Windows-form\Names\bin\Debug\net8.0-windows\Names.exe
+C:\Github_Repos\Modern-Windows-form\Names\bin\Debug\net8.0-windows\Names.deps.json
+C:\Github_Repos\Modern-Windows-form\Names\bin\Debug\net8.0-windows\Names.runtimeconfig.json
+C:\Github_Repos\Modern-Windows-form\Names\bin\Debug\net8.0-windows\Names.dll
+C:\Github_Repos\Modern-Windows-form\Names\bin\Debug\net8.0-windows\Names.pdb
+C:\Github_Repos\Modern-Windows-form\Names\obj\Debug\net8.0-windows\Names.Form1.resources
+C:\Github_Repos\Modern-Windows-form\Names\obj\Debug\net8.0-windows\Names.csproj.GenerateResource.cache
+C:\Github_Repos\Modern-Windows-form\Names\obj\Debug\net8.0-windows\Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_Repos\Modern-Windows-form\Names\obj\Debug\net8.0-windows\Names.AssemblyInfoInputs.cache
+C:\Github_Repos\Modern-Windows-form\Names\obj\Debug\net8.0-windows\Names.AssemblyInfo.cs
+C:\Github_Repos\Modern-Windows-form\Names\obj\Debug\net8.0-windows\Names.csproj.CoreCompileInputs.cache
+C:\Github_Repos\Modern-Windows-form\Names\obj\Debug\net8.0-windows\Names.sourcelink.json
+C:\Github_Repos\Modern-Windows-form\Names\obj\Debug\net8.0-windows\Names.dll
+C:\Github_Repos\Modern-Windows-form\Names\obj\Debug\net8.0-windows\refint\Names.dll
+C:\Github_Repos\Modern-Windows-form\Names\obj\Debug\net8.0-windows\Names.pdb
+C:\Github_Repos\Modern-Windows-form\Names\obj\Debug\net8.0-windows\Names.genruntimeconfig.cache
+C:\Github_Repos\Modern-Windows-form\Names\obj\Debug\net8.0-windows\ref\Names.dll
